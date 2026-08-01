@@ -1,0 +1,2 @@
+id,timestamp,traffic_type,fusion_score,decision,ground_truth,correct,latency_ms,p_zscore,p_dtree,p_rforest,p_iforest
+347257,2026-07-02T00:15:56.468726,slow_rate,0.9998123393925157,BLOCK,1,1,1066950.5789279938,0.9997465252648207,1.0,1.0,0.48035491230606253
